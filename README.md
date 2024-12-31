@@ -16,6 +16,10 @@ You have the abillity to:
 7. Forget password sends an email to reset password to your email
 8. Custom error pages
 
+## Demo Video
+
+https://github.com/Ziad-Elshrief/Flask_Blog/blob/main/Video/FlaskBlog.mp4
+
 ## Acknowledgements
 
 This was completed following [Corey Schafer's Flask Tutorial](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
